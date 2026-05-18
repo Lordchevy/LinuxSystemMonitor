@@ -71,7 +71,7 @@ PING google.com (142.250.72.14)
 Clone the repository:
 
 ```bash
-git clone https://github.com/Lordchevy/linux-system-monitor.git
+git clone https://github.com/Lordchevy/LinuxSystemMonitor.git
 ```
 
 Navigate into the project directory:
